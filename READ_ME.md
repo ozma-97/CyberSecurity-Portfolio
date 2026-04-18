@@ -34,7 +34,48 @@ Welcome to my cybersecurity portfolio! Here you'll find projects demonstrating m
 - Security Event Correlation
 - JSON, Python
 
-[ View Project Details →](./projects/security-incident-analysis)
+---
+
+### 2. [Incident Response Playbook](./projects/incident_response_playbook)
+
+**Incident Response Playbook**
+
+**Status:**  Complete  
+**Type:** Security Operations Documentation  
+**Focus:** Incident Response Procedures & Crisis Management  
+
+####  What's Included:
+
+**4 Comprehensive Playbooks:**
+-  **Ransomware Response Playbook** - Detection through recovery procedures
+-  **Data Breach Response Playbook** - Investigation and regulatory notification
+-  **Malware Infection Response Playbook** - Identification and system remediation
+-  **Account Compromise Response Playbook** - Credential reset and forensics
+
+**Plus:**
+-  **Response Framework** - NIST-based incident response lifecycle
+-  **Investigation Procedures** - Step-by-step forensic analysis
+-  **Escalation Procedures** - Communication and notification templates
+-  **Metrics & KPIs** - Incident response measurement
+
+####  Skills Demonstrated:
+
+- Security incident response procedures  
+- Crisis communication & escalation  
+- Forensic investigation methodology  
+- Regulatory compliance awareness (GDPR, HIPAA, PCI-DSS)  
+- Risk assessment & mitigation  
+- Process documentation & clarity  
+- Team coordination under pressure  
+
+####  Relevant to:
+
+- Security Operations Center (SOC)
+- Incident Response Teams
+- Blue Team
+- Security Management
+- Compliance & Risk Management
+
 
 ---
 
