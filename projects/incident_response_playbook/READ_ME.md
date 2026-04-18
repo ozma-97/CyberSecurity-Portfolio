@@ -182,14 +182,6 @@ People actually use playbooks like these in real jobs:
 - **Enterprise Security** - Coordinate responses across the company
 - **Compliance Teams** - Make sure they follow the rules
 
----
-
-## Project Structure
-
-
-incident-response-playbook/ ├── README.md # This file ├── PLAYBOOK.pdf # Complete playbook document │ ├── playbooks/ │ ├── 01-ransomware-response.md # Ransomware playbook │ ├── 02-data-breach-response.md # Data breach playbook │ ├── 03-malware-infection-response.md # Malware playbook │ └── 04-account-compromise-response.md # Account compromise playbook │ ├── templates/ │ ├── incident-report-template.md # Standard incident report format │ ├── timeline-template.md # Incident timeline template │ └── communication-template.md # Stakeholder communication template │ └── docs/ └── FRAMEWORK.md # Response framework & principles
-
-
 
 ---
 
