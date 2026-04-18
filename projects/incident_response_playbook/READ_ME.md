@@ -200,9 +200,9 @@ incident-response-playbook/ ├── README.md # This file ├── PLAYBOOK.p
 - **Project 1:** [Security Incident Investigation](../security-incident-analysis)
 - **Framework:** [Read FRAMEWORK.md](./docs/FRAMEWORK.md)
 - **First Playbook:** [Ransomware Response](./playbooks/01-ransomware-response.md)
-- **First Playbook:** [Data Breach Response](./playbooks/02-data-breach-response.md)
-- **First Playbook:** [Malware Infection Response](./playbooks/03-malware-infection-response.md)
-- **First Playbook:** [Account Compromise Response](./playbooks/04-account-compromise-response.md)
+- **Second Playbook:** [Data Breach Response](./playbooks/02-data-breach-response.md)
+- **Third Playbook:** [Malware Infection Response](./playbooks/03-malware-infection-response.md)
+- **Fourth Playbook:** [Account Compromise Response](./playbooks/04-account-compromise-response.md)
 
 ---
 
